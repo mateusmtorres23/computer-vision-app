@@ -8,5 +8,6 @@ dependencies = [
     "av>=16.1.0",
     "mediapipe>=0.10.32",
     "opencv-python>=4.13.0.92",
+    "python-fasthtml>=0.12.50",
     "scikit-learn>=1.8.0",
 ]
